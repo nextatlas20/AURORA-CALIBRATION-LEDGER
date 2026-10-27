@@ -1,0 +1,2 @@
+sequence,scanner_id,scanner_name,test_id,measured_at,target_dpi,measured_dpi,skew_microns
+7,XR-11,Northstar Overhead,CT-102,2026-09-30T14:00:00Z,600,605,18
