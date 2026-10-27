@@ -1,0 +1,4 @@
+sequence,scanner_id,scanner_name,target_dpi,chosen_test,measured_at,measured_dpi,skew_microns,result
+7,XR-11,Northstar Overhead,600,CT-102,2026-09-30T14:00:00Z,605,18,CERTIFIED
+12,XR-24,Lantern Reel,400,CT-103,2026-09-30T10:30:00Z,421,12,OUT_OF_TOLERANCE
+25,XR-42,Harbor Sheetfed,300,,,,,NO_PASSING_TEST
