@@ -1,0 +1,5 @@
+sequence,scanner_id,scanner_name,target_dpi,state
+7,XR-11,Northstar Overhead,600,ACTIVE
+12,XR-24,Lantern Reel,400,ACTIVE
+18,XR-31,Prism Flatbed,800,SERVICE
+25,XR-42,Harbor Sheetfed,300,ACTIVE
